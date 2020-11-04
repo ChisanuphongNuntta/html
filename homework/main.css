@@ -21,16 +21,16 @@
     #sec_container{
     display: -webkit-box;
     -webkit-box-orient: horizontal;
-    border: 5px solid green;
+    border: 5px solid salmon;
     }
     header{
-    background: green;
+    background: skyblue;
     display: -webkit-box;
     -webkit-box-pack: center;
     padding: 20px;
     }
     nav {
-    background: blue;
+    background: crimson;
     color: white;
     }
     nav li{
